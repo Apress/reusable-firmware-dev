@@ -1,0 +1,14 @@
+Version 0.0.7 - 20151126
+- Added the configuration modules
+- Updated version information
+- Clean build of Doxygen
+
+Version 0.0.5 - 20150909
+- Added dio.h template
+- Added dio.c template
+- Added dio_cfg.h template
+- Added dio_cfg.c template
+
+Version 0.0.1 - 20150721
+- Initial directory commit 
+ 
